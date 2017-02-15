@@ -1,0 +1,19 @@
+{
+  "name": "jquery1",
+  "version": "1.0.0",
+  "description": "JQuery exercises",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkadiusz-cichosz/JQuery1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkadiusz-cichosz/JQuery1/issues"
+  },
+  "homepage": "https://github.com/arkadiusz-cichosz/JQuery1#readme"
+}
