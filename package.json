@@ -10,10 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/arkadiusz-cichosz/JQuery1.git"
   },
-  "author": "",
+  "author": "Arkadiusz Cichosz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arkadiusz-cichosz/JQuery1/issues"
   },
-  "homepage": "https://github.com/arkadiusz-cichosz/JQuery1#readme"
+  "homepage": "https://github.com/arkadiusz-cichosz/JQuery1#readme",
+  "dependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+  },
+  "devDependencies": {},
+  "keywords": [
+    "jquery"
+  ]
 }
