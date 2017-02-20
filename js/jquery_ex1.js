@@ -9,8 +9,8 @@ $(function() {
 	});
 
 	paragraphs.each(function(index, element) {
-		let extra_button = '<button class=\"btn\" data-tmp=\"' + index + '\">Click me</button>';
-		$(element).append(extra_button);
+		let extraButton = '<button class=\"btn\" data-tmp=\"' + index + '\">Click me</button>';
+		$(element).append(extraButton);
 	});
 
 	$('button').click(function() {
